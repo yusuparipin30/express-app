@@ -1,3 +1,15 @@
+//pertama-tama ketik perintah "npm init -y" pada terminal
+//Perintah tersebut akan membuat sebuah file bernama “package.json” di dalam folder “express-app”.
+
+//File ini “package.json” berisi semua informasi dependensi dan package yang kita gunakan dalam membangun aplikasi
+
+//Selanjutnya, install express dengan mengetikan perintah berikut pada terminal: npm install express
+
+//Jika membuka file “package.json”, maka akan terlihat ada penambahan dependensi yaitu “express” yang barusaja di instal
+
+/*Selain itu juga terdapat penambahan folder “node_modules” didalam folder “express-app”.
+Pada tahap ini,telah berhasil menginstal express. */
+
 //mengimport express
 import express from "express";
  
